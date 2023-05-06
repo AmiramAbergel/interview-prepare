@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VScode\interview-prepare\bin\Debug\net7.0\interview-prepare.exe
+C:\Users\user\Documents\VScode\interview-prepare\bin\Debug\net7.0\interview-prepare.deps.json
+C:\Users\user\Documents\VScode\interview-prepare\bin\Debug\net7.0\interview-prepare.runtimeconfig.json
+C:\Users\user\Documents\VScode\interview-prepare\bin\Debug\net7.0\interview-prepare.dll
+C:\Users\user\Documents\VScode\interview-prepare\bin\Debug\net7.0\interview-prepare.pdb
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.AssemblyInfo.cs
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.dll
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\refint\interview-prepare.dll
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.pdb
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\interview-prepare.genruntimeconfig.cache
+C:\Users\user\Documents\VScode\interview-prepare\obj\Debug\net7.0\ref\interview-prepare.dll
